@@ -1,0 +1,14 @@
+C:\Users\carlo\OneDrive\Área de Trabalho\GG\C#\Microsoft_Ln\dot_net\bin\Debug\net8.0\dot_net.exe
+C:\Users\carlo\OneDrive\Área de Trabalho\GG\C#\Microsoft_Ln\dot_net\bin\Debug\net8.0\dot_net.deps.json
+C:\Users\carlo\OneDrive\Área de Trabalho\GG\C#\Microsoft_Ln\dot_net\bin\Debug\net8.0\dot_net.runtimeconfig.json
+C:\Users\carlo\OneDrive\Área de Trabalho\GG\C#\Microsoft_Ln\dot_net\bin\Debug\net8.0\dot_net.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\GG\C#\Microsoft_Ln\dot_net\bin\Debug\net8.0\dot_net.pdb
+C:\Users\carlo\OneDrive\Área de Trabalho\GG\C#\Microsoft_Ln\dot_net\obj\Debug\net8.0\dot_net.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\OneDrive\Área de Trabalho\GG\C#\Microsoft_Ln\dot_net\obj\Debug\net8.0\dot_net.AssemblyInfoInputs.cache
+C:\Users\carlo\OneDrive\Área de Trabalho\GG\C#\Microsoft_Ln\dot_net\obj\Debug\net8.0\dot_net.AssemblyInfo.cs
+C:\Users\carlo\OneDrive\Área de Trabalho\GG\C#\Microsoft_Ln\dot_net\obj\Debug\net8.0\dot_net.csproj.CoreCompileInputs.cache
+C:\Users\carlo\OneDrive\Área de Trabalho\GG\C#\Microsoft_Ln\dot_net\obj\Debug\net8.0\dot_net.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\GG\C#\Microsoft_Ln\dot_net\obj\Debug\net8.0\refint\dot_net.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\GG\C#\Microsoft_Ln\dot_net\obj\Debug\net8.0\dot_net.pdb
+C:\Users\carlo\OneDrive\Área de Trabalho\GG\C#\Microsoft_Ln\dot_net\obj\Debug\net8.0\dot_net.genruntimeconfig.cache
+C:\Users\carlo\OneDrive\Área de Trabalho\GG\C#\Microsoft_Ln\dot_net\obj\Debug\net8.0\ref\dot_net.dll
